@@ -18,7 +18,6 @@ const Navigation = () =>{
             <Link className="nav-link" to='/cus'>
                 CU LIST
             </Link>
-
           </div>
         </div>
         <Outlet />
